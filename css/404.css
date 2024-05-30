@@ -10,6 +10,9 @@
 }
 
 .page_404  img{ width:100%;}
+.img-fluid {
+    border-radius: 20px;
+}
 
 .four_zero_four_bg{
  
@@ -33,6 +36,7 @@
 	color: #fff!important;
     padding: 10px 10px;
     background: #39ac31;
+    border-radius: 15px;
     margin: 20px 0;
     display: inline-block;}
 	.contant_box_404{ margin-top:-50px;}
